@@ -1,0 +1,59 @@
+body{
+  background-color: #EFEFEF;
+  color: #333333;
+}
+
+a{
+  text-decoration:none;
+  color: inherit;
+}
+
+#wrapper{
+    width:800px;
+    margin:0 auto;
+    text-align: center;
+}
+
+.featureContainer{
+
+}
+
+.featureBox{
+  width: 200px;
+  display: inline-block;
+}
+
+.imgFeature{
+  height: 100px;
+  width: 100px;
+}
+
+footer{
+
+  clear: both;
+  position: relative;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.btnHome{
+  width: 50px;
+  height: 50px;
+  position: absolute;;
+  bottom: 0px;
+  left: 100px;
+}
+
+.logo{
+  position: absolute;;
+  bottom: 0px;
+  right: 100px;
+}
+
+.btnCredit{
+  position: absolute;;
+  bottom: 0px;
+  left: 50%;
+  margin-left: -20px;
+}
